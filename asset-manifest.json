@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/photo_tagging_app/static/css/main.4452c62f.css",
-    "main.js": "/photo_tagging_app/static/js/main.1f18fde9.js",
+    "main.css": "/photo_tagging_app/static/css/main.79007a63.css",
+    "main.js": "/photo_tagging_app/static/js/main.ef0178c9.js",
     "static/media/img1.jpg": "/photo_tagging_app/static/media/img1.6315caff9d7f3a586374.jpg",
     "static/media/img2.jpg": "/photo_tagging_app/static/media/img2.8ad8cd812dae8d55031c.jpg",
     "static/media/chad.webp": "/photo_tagging_app/static/media/chad.0c438f45b78053b9c8ef.webp",
@@ -11,11 +11,11 @@
     "static/media/kenny.png": "/photo_tagging_app/static/media/kenny.7d1881418ca08916fac0.png",
     "static/media/joey.webp": "/photo_tagging_app/static/media/joey.62173570a44effcf2c21.webp",
     "index.html": "/photo_tagging_app/index.html",
-    "main.4452c62f.css.map": "/photo_tagging_app/static/css/main.4452c62f.css.map",
-    "main.1f18fde9.js.map": "/photo_tagging_app/static/js/main.1f18fde9.js.map"
+    "main.79007a63.css.map": "/photo_tagging_app/static/css/main.79007a63.css.map",
+    "main.ef0178c9.js.map": "/photo_tagging_app/static/js/main.ef0178c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4452c62f.css",
-    "static/js/main.1f18fde9.js"
+    "static/css/main.79007a63.css",
+    "static/js/main.ef0178c9.js"
   ]
 }
