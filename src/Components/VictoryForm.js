@@ -47,7 +47,7 @@ const VictoryForm = forwardRef(({totalTime, goToLeaderboard,returnHome,selection
             <div className="subtitle">Enter your name to save your time on the leaderboard:</div>
             <input className="username" type="text" autoComplete="off" placeholder="Username"></input>
             <div className="formBottom">
-                <Link to='/' onClick={returnHome}>
+                <Link to='/photo_tagging_app' onClick={returnHome}>
                     <button className="victoryBtn">Play Again</button>
                 </Link>
                 <button className="victoryBtn" onClick={(e) => saveTime(e)}>Submit Time</button>

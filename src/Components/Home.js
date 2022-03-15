@@ -15,7 +15,7 @@ function Home({handleClick}){
             <div className='map'>
               <div className='mapName'> Cyberpunk City </div>
               <div className='maps'>
-                <Link to='/map1'onClick={(e)=> handleClick(e)}>
+                <Link to='/map1' className='mapContainer' onClick={(e)=> handleClick(e)}>
                     <img className='smallMap' src={img1} value="1" alt="map1" ></img>
                 </Link>
                 <div className='characters'>
@@ -38,7 +38,7 @@ function Home({handleClick}){
             <div className='map'>
               <div className='mapName'> Robot City </div>
               <div className='maps'>
-                <Link to='/map2'onClick={(e)=> handleClick(e)}>
+                <Link to='/map2' className='mapContainer' onClick={(e)=> handleClick(e)}>
                     <img className='smallMap' src={img2} alt="map2" value="2" ></img>
                 </Link>
                 <div className='characters'>
