@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/photo_tagging_app/static/css/main.4452c62f.css",
+    "main.js": "/photo_tagging_app/static/js/main.1f18fde9.js",
+    "static/media/img1.jpg": "/photo_tagging_app/static/media/img1.6315caff9d7f3a586374.jpg",
+    "static/media/img2.jpg": "/photo_tagging_app/static/media/img2.8ad8cd812dae8d55031c.jpg",
+    "static/media/chad.webp": "/photo_tagging_app/static/media/chad.0c438f45b78053b9c8ef.webp",
+    "static/media/obelix.jpg": "/photo_tagging_app/static/media/obelix.1c4b9cd5a7974527e916.jpg",
+    "static/media/Butthole.jpg": "/photo_tagging_app/static/media/Butthole.59b49677b09d78200a9f.jpg",
+    "static/media/spiderman.png": "/photo_tagging_app/static/media/spiderman.2f4bfa706f355cacd4ad.png",
+    "static/media/kenny.png": "/photo_tagging_app/static/media/kenny.7d1881418ca08916fac0.png",
+    "static/media/joey.webp": "/photo_tagging_app/static/media/joey.62173570a44effcf2c21.webp",
+    "index.html": "/photo_tagging_app/index.html",
+    "main.4452c62f.css.map": "/photo_tagging_app/static/css/main.4452c62f.css.map",
+    "main.1f18fde9.js.map": "/photo_tagging_app/static/js/main.1f18fde9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4452c62f.css",
+    "static/js/main.1f18fde9.js"
+  ]
+}
