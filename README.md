@@ -3,7 +3,7 @@
 Project based on the popular game "Where is Waldo?".
 The project is made in React and connected to a Firebase database.
 On the database are saved the location of the elements to find and the time of completion of the game of all the users,
-the time of completion is calculated all in the backend to avoid cheats.
+the time of completion is calculated in the backend to avoid cheats.
 
 Hope you enjoy it!
 
