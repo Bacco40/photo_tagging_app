@@ -1,3 +1,17 @@
+# Photo tagging App
+
+Project based on the popular game "Where is Waldo?".
+The project is made in React and connected to a Firebase database.
+On the database are saved the location of the elements to find and the time of completion of the game of all the users,
+the time of completion is calculated all in the backend to avoid cheats.
+
+Hope you enjoy it!
+
+👉 [Live demo]() 👈
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
