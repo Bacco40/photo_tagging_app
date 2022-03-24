@@ -7,9 +7,7 @@ the time of completion is calculated all in the backend to avoid cheats.
 
 Hope you enjoy it!
 
-👉 [Live demo]() 👈
-
-
+👉 [Live demo](https://bacco40.github.io/photo_tagging_app/) 👈
 
 
 # Getting Started with Create React App
